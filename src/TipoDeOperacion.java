@@ -1,0 +1,5 @@
+
+public enum TipoDeOperacion {
+
+	CONFIGURACION, ACTIVACION, DESACTIVACION;
+}
